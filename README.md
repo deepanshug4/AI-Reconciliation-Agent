@@ -5,7 +5,7 @@
 Upload two datasets that *should* agree (e.g., invoices vs. bank ledger). The tool validates data quality, matches records, flags every discrepancy, ranks them by financial impact, and produces a stakeholder-ready summary — in seconds.
 
 🔗 **Live demo:** https://ai-reconciliation-agent.streamlit.app/
-📸 <img width="1907" height="998" alt="Screenshot 2026-07-26 000341" src="https://github.com/user-attachments/assets/885bd47b-a4fb-44a9-a165-970e25e38a36" />
+<img width="1907" height="998" alt="Screenshot 2026-07-26 000341" src="https://github.com/user-attachments/assets/885bd47b-a4fb-44a9-a165-970e25e38a36" />
 
 
 ---
