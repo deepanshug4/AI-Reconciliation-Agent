@@ -1,0 +1,6 @@
+transaction_id,amount,recorded_by
+TXN001,1200.00,J. Smith
+TXN002,455.50,A. Kumar
+TXN003,999.99,L. Chen
+TXN005,600.00,M. Diaz
+TXN006,75.25,R. Patel

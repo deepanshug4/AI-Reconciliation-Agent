@@ -1,1 +1,6 @@
-
+transaction_id,amount,vendor
+TXN001,1200.00,Acme Corp
+TXN002,450.50,Globex
+TXN003,999.99,Initech
+TXN004,300.00,Umbrella
+TXN006,75.25,Stark Industries
