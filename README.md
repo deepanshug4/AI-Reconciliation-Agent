@@ -52,7 +52,24 @@ A common shortcut is to let an LLM "figure out" what matches. For financial data
 Python · pandas · Streamlit · Plotly · Anthropic (Claude, optional)
 
 ## Project structure
+```
+ai-reconciliation-agent/
 
+├── README.md
+├── requirements.txt
+│
+├── data/
+│   ├── sample_a.csv
+│   ├── sample_b.csv
+│
+├── src/
+│   ├── generate_data.py
+│   ├── metrics.py
+│   ├── analysis.py
+│   └── cohort.py
+│
+└── app.py
+```
 
 ## Run locally
 
