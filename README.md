@@ -63,10 +63,10 @@ ai-reconciliation-agent/
 │   ├── sample_b.csv
 │
 ├── src/
-│   ├── generate_data.py
-│   ├── metrics.py
-│   ├── analysis.py
-│   └── cohort.py
+│   ├── explain.py
+│   ├── insights.py
+│   ├── quality.py
+│   └── reconcile.py
 │
 └── app.py
 ```
